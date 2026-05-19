@@ -16,7 +16,8 @@
     "jsonwebtoken": "^9.0.3",
     "pg": "^8.21.0",
     "pq": "^0.0.3",
-    "sequelize": "^6.37.8"
+    "sequelize": "^6.37.8",
+    "umzug": "^3.8.3"
   },
   "devDependencies": {
     "axios": "^1.16.1"
